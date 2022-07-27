@@ -3,7 +3,7 @@ class D {
 	public static void printfactorial (int n) {
         //for-loop
         int Factorial = 1;
-				if (a < 0) {
+				if (n < 0) {
 					System.out.println("Invaild Number");
 				}
         for (int i = n; i>=1; i--) {

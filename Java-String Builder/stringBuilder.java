@@ -17,7 +17,7 @@ class A {
 		sb.insert(0,'m');
 		System.out.println(sb);
 		// delete Character
-		sb.delete(0,3);
+		sb.delete(0,1);
 		System.out.println(sb);
 	}
 }

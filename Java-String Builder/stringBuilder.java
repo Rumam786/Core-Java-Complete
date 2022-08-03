@@ -4,7 +4,7 @@ class A {
 		// Print sb
 		System.out.println(sb);
 		// Check index of character
-		System.out.println(sb.indexOf("R"));
+		System.out.println(sb.indexOf("e"));
 		// Check character at index ....
 		System.out.println(sb.charAt(6));
 		// Change character

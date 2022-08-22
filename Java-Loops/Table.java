@@ -4,7 +4,7 @@ class A {
     Scanner sc = new Scanner (System.in);
     System.out.println("Type Number");
     int n = sc.nextInt();
-    for ( int i = 1; i <11; i = i+1 ) {
+    for ( int i = 1; i <11; i++) {
       System.out.println(n*i);
     }
   }

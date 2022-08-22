@@ -23,6 +23,8 @@ class E {
         case 7 :
 			System.out.print("Sunday");
             break;
+        default : 
+        	System.out.println("Invaild");
 		}
 	}
 }

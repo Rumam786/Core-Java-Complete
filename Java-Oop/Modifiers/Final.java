@@ -1,4 +1,4 @@
-public class finalAttribute {
+public class Final {
 	final int x = 10;
 	public static void main(String[] args) {
 		finalAttribute myObj = new finalAttribute();

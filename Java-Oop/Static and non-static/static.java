@@ -1,4 +1,4 @@
-public class Main {
+public class Static {
 	static void myMethod() {
 		System.out.println("My Name is Ruman Ali");
 		System.out.println("My Age is 18");

@@ -1,11 +1,11 @@
 class C {
-	void show()
+	public void show()
 	{
 		System.out.println("Show World");
 	}
 	public static void main(String[] args) {
-		C ref = new C();
-		ref.show();
+		C MyObj = new C();
+		MyObj.show();
 		System.out.println("Reference!");
 	}
 }

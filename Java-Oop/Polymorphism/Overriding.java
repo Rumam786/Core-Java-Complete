@@ -6,7 +6,7 @@ class Me {
 class dog extends Me {
 	@Override
 	public void myFood() {
-		System.out.println("I Can Eat Food");
+		System.out.println("Dog Can Eat Food");
 	}
 }
 class Overriding {

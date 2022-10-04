@@ -3,7 +3,7 @@ class D {
 		System.out.print("Hello World");
 	}
 }
-//command : single line comment
+//comment : single line comment
 /* Multi line
  
             Comment  */

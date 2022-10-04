@@ -2,7 +2,7 @@ import java.util.*;
 class E {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
-		System.out.println("Press Numeber Between 1 to 12");
+		System.out.println("Press Number Between 1 to 12");
 		int button = sc.nextInt();
 		switch (button) {
 		case 1 : 
